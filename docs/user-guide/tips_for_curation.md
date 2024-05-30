@@ -35,14 +35,16 @@ We recommend using [VariantValidator](https://variantvalidator.org/service/valid
 Note that incorrect variant nomenclature is still common in the literature. For instance, ``c.C414A`` should be ``c.414C>A``.
 
 
-### Age of Onset
+### Age of Onset and Age at last encounter
 
 Please specify the Age in the Format: [X]Y[X]M. 
 
 !!! example 
 
-    Age of onset is 8 months or 4.5 years 
+    Age of last encounter is 8 months or 4.5 years 
     --> 0Y8M or 4Y6M
+    Age of onset is congenital or 4 years
+    --> ``congenital onset`` or 4Y0M
 
 # HPO Term columns
 
