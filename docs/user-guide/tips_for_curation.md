@@ -34,6 +34,16 @@ We recommend using [VariantValidator](https://variantvalidator.org/service/valid
 
 Note that incorrect variant nomenclature is still common in the literature. For instance, ``c.C414A`` should be ``c.414C>A``.
 
+
+### Age of Onset
+
+Please specify the Age in the Format: [X]Y[X]M. 
+
+!!! example 
+
+    Age of onset is 8 months or 4.5 years 
+    --> 0Y8M or 4Y6M
+
 # HPO Term columns
 
 Please use only HPO terms for these columns. Do not use terms from other ontologies or terminologies such as OMIM, ORPHA, or other sources.
