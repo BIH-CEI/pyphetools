@@ -76,15 +76,15 @@ The HPO describes phenotypic abnormalities in a clinical context. It does not co
 
 ### HPO Annotation
 
-#### Onset
+#### Phenotype Preciseness
 
-If possible and stated explicitly in the publication, add the terms ``Congenital onset``, ``Neonatal onset``, etc. instead of ``observed`` into the respective cell of individual and phenotype. The exact terms can be found within the concept [onset](https://hpo.jax.org/browse/term/HP:0003674). 
-  - please note that ``congenital`` onset denotes phenotypes that were observed right at birth, while ``neonatal`` onset denotes phenotypes that occured within the first minutes or days of life.
+Ensure ``confirmed`` phenotypes are annotated as precisely as possible. Conversely, ``excluded`` phenotypes should be documented as generally as possible to cover a broader range of potential conditions
 
 #### Phenotype Explicitness
 
 - Only annotate phenotypes that were explicitly observed as ``observed``. Implicit descriptions of symptoms or suspected phenotypes must be annotated as ``na``. However, sometimes clinical expertise is required to make educated guesses based on what has been read, striving to interpret the information as clearly and explicitly as possible.
 
-#### Phenotype Preciseness
+#### Onset
 
-Ensure ``confirmed`` phenotypes are annotated as precisely as possible. Conversely, ``excluded`` phenotypes should be documented as generally as possible to cover a broader range of potential conditions
+If possible and stated explicitly in the publication, add the terms ``Congenital onset``, ``Neonatal onset``, etc. instead of ``observed`` into the respective cell of individual and phenotype. The exact terms can be found within the concept [onset](https://hpo.jax.org/browse/term/HP:0003674). 
+  - please note that ``congenital`` onset denotes phenotypes that were observed right at birth, while ``neonatal`` onset denotes phenotypes that occured within the first minutes or days of life.
