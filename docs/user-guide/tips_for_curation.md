@@ -22,6 +22,8 @@ Then use “28-year-old man” as the identifier (see [PMID:38143450](https://pu
 
 Please use the OMIM identifier. This can be taken from the OMIM webpage for the disease. For instance, [OMIM:300853](https://omim.org/entry/300853) shows Phenotype MIM number 300853. Please enter this as ``OMIM:300853``. The ``Phenotype`` (i.e., disease) is shown in the table as ``Immunodeficiency, X-linked, with magnesium defect, Epstein-Barr virus infection and neoplasia``. Please use this label. This will make it much easier for software to correctly identify the disease that is being curated.
 
+If there are multiple ``Phenotype`` labels for the disease in the table, please refer to the corresponding section of the publication being annotated. Typically, on the OMIM webpage for the disease, these labels are separated based on the respective individuals observed.
+
 ### Comment
 Sometimes it is hard to curate information and it is a good idea to enter some additional information about the case to help others understand the curation. Please use the ``comment`` field for this. The following box shows an example of the kind of comment that might be useful.
 
