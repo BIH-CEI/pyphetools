@@ -5,6 +5,9 @@ This document explains the intended use of the fields of the template and provid
 ### PMID:
 Please use the form ``PMID:38143450``. Please remove the space, if any, between the colon and the number.
 
+### Title: 
+Please use the exact title of the publication listed in PubMed.
+
 ### Indentifier:
 
 Please use the identifier used in the original publication. If the original publication has a Table, it is usually obvious what identifier to use. In other cases, no explicit identifier is given. Try to extract a short identifier that will be obvious to others who might look at your curation later on. For instance, if the paper is a case report that states this:
