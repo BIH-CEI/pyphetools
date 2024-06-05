@@ -39,6 +39,10 @@ We recommend using [VariantValidator](https://variantvalidator.org/service/valid
 
 Note that incorrect variant nomenclature is still common in the literature. For instance, ``c.C414A`` should be ``c.414C>A``.
 
+### Allele 1 & 2 
+
+TODO: missing
+
 
 ### Age of Onset and Age at last encounter
 
