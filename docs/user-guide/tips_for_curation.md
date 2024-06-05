@@ -43,7 +43,6 @@ Note that incorrect variant nomenclature is still common in the literature. For 
 
 TODO: missing
 
-
 ### Age of Onset and Age at last encounter
 
 Please specify the Age in the Format: [X]Y[X]M. 
