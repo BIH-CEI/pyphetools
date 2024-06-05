@@ -73,3 +73,12 @@ the term in the first row and ``NTR`` (new term request) in the second row. The 
 ### Scope
 
 The HPO describes phenotypic abnormalities in a clinical context. It does not cover topics such as molecular mechanisms. Terms such as “loss-of function” are not in scope.
+
+### HPO Annotation
+
+#### Onset
+
+If possible and stated explicitly in the publication, add the terms ``Congenital onset``, ``Neonatal onset``, etc. instead of ``observed`` into the respective cell of individual and phenotype. The exact terms can be found within the concept [onset](https://hpo.jax.org/browse/term/HP:0003674). 
+  - please note that ``congenital`` onset denotes phenotypes that were observed right at birth, while ``neonatal`` onset denotes phenotypes that occured within the first minutes or days of life.
+
+
