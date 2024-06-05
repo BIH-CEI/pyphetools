@@ -20,10 +20,10 @@ We will show an example for creating a template for
 from pyphetools.creation import TemplateCreator
 ```
 
-First initialize the creator object with the path to a ``hp.json`` file (adjust the path as needed on your system).
+First initialize the creator object with the path to a ``hp.json`` file (adjust the path as needed on your system. The file can be found in the pyphetools Repository).
 
 ```python
-tcreator = TemplateCreator(hp_json="../hp.json")
+tcreator = TemplateCreator(hp_json="../hp.json",hp_cr_index="../hp.index")
 ```
 
 We will then use HPO text mining to retrieve as many terms as possible from a description of the phenotypic features that can be derived from the article you are curating or any relevant source. We took the following description from [Tenorio J, et al., Simpson-Golabi-Behmel syndrome types I and II. Orphanet J Rare Dis. 2014](https://pubmed.ncbi.nlm.nih.gov/25238977/){:target="_blank"}
