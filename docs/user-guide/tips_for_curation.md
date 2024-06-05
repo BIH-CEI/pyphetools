@@ -59,7 +59,6 @@ Please specify the Age in the Format: [X]Y[X]M.
 
 Please use only HPO terms for these columns. Do not use terms from other ontologies or terminologies such as OMIM, ORPHA, or other sources.
 
-
 Please use exactly the original HPO term label, e.g., do not use the words they used in the original publication, instead use the label found on the HPO website
 
 For instance, if the original publication states ``recurrent bronchopulmonary infection``, go to the HPO website to determine the corresponding HPO term, which in this case is [Recurrent bronchopulmonary infections](https://hpo.jax.org/app/browse/term/HP:0006538){:target="_blank"}. If ``hypogammaglobulinemia`` is used in the original publication, choose [Decreased circulating antibody level](https://hpo.jax.org/app/browse/term/HP:0004313){:target="_blank"}.
