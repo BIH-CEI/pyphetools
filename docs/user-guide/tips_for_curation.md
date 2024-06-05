@@ -83,6 +83,6 @@ If possible and stated explicitly in the publication, add the terms ``Congenital
 
 #### Phenotype Explicitness
 
-- Only annotate phenotypes that were explicitly observed as ``observed``. Implicit descriptions of symptoms or suspected phenotypes must be annotated as ``na``. 
+- Only annotate phenotypes that were explicitly observed as ``observed``. Implicit descriptions of symptoms or suspected phenotypes must be annotated as ``na``. However, sometimes clinical expertise is required to make educated guesses based on what has been read, striving to interpret the information as clearly and explicitly as possible.
 
-
+#### 
